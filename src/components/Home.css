@@ -1,0 +1,15 @@
+.home_class{
+    margin: 50px;
+}
+.home_list{
+    margin: 50px;
+}
+.form-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.search-bar{
+    width: 400px;
+}

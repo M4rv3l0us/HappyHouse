@@ -1,0 +1,28 @@
+.carousel-class{
+    width: 50%;
+    height: 300px;
+    margin: 40px;
+    display: inline-flex;
+    color: black;
+}
+
+.custom-tag img{
+    width: 50%;
+    height: 250px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    padding: 50px;
+    margin-bottom: 90px;
+    color: #000000;
+}
+.control-icon{
+    background-color: palevioletred;
+    border-radius: 15px;
+    border-color: orange;
+    color: #000000;
+}
+.caption{
+    color: #000000;
+    padding: 10px;
+    align-items: flex-end;
+}
